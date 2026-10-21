@@ -42,3 +42,4 @@ file reading and writing, and testing with redirected input.
 - Support for several buildings
 - Keep the previous month's history
 - Handle a damaged `building.txt`
+- Handle empty apartments
